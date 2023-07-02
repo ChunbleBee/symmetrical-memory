@@ -1,6 +1,6 @@
-# src
+# Symmetrical-Memory
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple task management system similar to Jira
 
 ## Recommended IDE Setup
 
